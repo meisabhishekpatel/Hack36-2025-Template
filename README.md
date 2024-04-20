@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/HnNN23zD/built-at-hack36.png" height=24px> </a>
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/FFwvfkGk/built-at-hack36.png" height=24px> </a>
 
 
 ## Introduction:
@@ -34,4 +34,4 @@ Team Name: Code_Pirates
 
 
 ### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/HnNN23zD/built-at-hack36.png" height=24px> </a>
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/FFwvfkGk/built-at-hack36.png" height=24px> </a>
