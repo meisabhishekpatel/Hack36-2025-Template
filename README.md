@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/HnNN23zD/built-at-hack36.png" height=24px> </a>
 
 
 ## Introduction:
@@ -12,7 +12,7 @@
   <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
   
 ## Presentation Link:
-  <a href="https://cutt.ly/Hack36_23_ppt"> PPT link here </a>
+  <a href="https://bit.ly/hack36_24_ppt"> PPT link here </a>
   
   
 ## Table of Contents:
@@ -28,10 +28,10 @@
 
 Team Name: Code_Pirates
 
-* [Lovedeep singh kamal](https://github.com/dev-lovedeep)
-* [Mohit pandey](https://github.com/mojoAlpha)
-* [Ishan Gupta](https://github.com/developer-ishan)
+* [Shashank Verma](https://github.com/shank03)
+* [Sanskar Omar](https://github.com/sanskaromar)
+* [Priyav Kaneria](https://github.com/priyavkaneria)
 
 
 ### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/HnNN23zD/built-at-hack36.png" height=24px> </a>
