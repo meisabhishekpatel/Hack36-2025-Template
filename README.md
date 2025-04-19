@@ -2,17 +2,17 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/FFwvfkGk/built-at-hack36.png" height=24px> </a>
+<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
 
 
 ## Introduction:
   Brief description of the project
   
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  <a href="#"></a>
   
 ## Presentation Link:
-  <a href="https://bit.ly/hack36_24_ppt"> PPT link here </a>
+  <a href="https://docs.google.com/document/d/1q_LBPiuw8-IA4X1Dm2E96WfQDCPOj8Ngu7Z2Sg2lDno/edit?tab=t.0"> PPT link here </a>
   
   
 ## Table of Contents:
@@ -26,12 +26,13 @@
 
 ## Contributors:
 
-Team Name: Code_Pirates
+Team Name: Level_Sabke_Niklenge
 
-* [Shashank Verma](https://github.com/shank03)
-* [Sanskar Omar](https://github.com/sanskaromar)
-* [Priyav Kaneria](https://github.com/priyavkaneria)
+- [Abhishek Patel](https://github.com/meisabhishekpatel)
+- [Alok Kumar Singh](https://github.com/harmonicfunc)
+- [Shreyansh Sinha](https://github.com/aryan1oo)
+- [Utkarsh Sharma](https://github.com/TechTonicShift)
 
 
 ### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/FFwvfkGk/built-at-hack36.png" height=24px> </a>
+<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
